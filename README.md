@@ -11,3 +11,10 @@ Copyright 2018, Department of Electronic Information Engineering, Nanchang Unive
    
     
  More subfiles needed for running the code can be found at: https://pan.baidu.com/s/1slHQcPn#list/path=%2F.    
+
+## Flowchart_MFLRTC
+![repeat-MDAEP](https://github.com/yqx7150/MFLRTC_inpainting/blob/master/Flowchart_MFLRTC.png)
+
+## Flowchart_WMFLRTC
+![repeat-MDAEP](https://github.com/yqx7150/MFLRTC_inpainting/blob/master/Flowchart_WMFLRTC.png)
+
