@@ -14,7 +14,8 @@ Copyright 2018, Department of Electronic Information Engineering, Nanchang Unive
 
 ## Flowchart_MFLRTC
 ![repeat-MDAEP](https://github.com/yqx7150/MFLRTC_inpainting/blob/master/Flowchart_MFLRTC.png)
+Exploration of multi-filters induced low-rank tensor approximation for image restoration.  
 
 ## Flowchart_WMFLRTC
 ![repeat-MDAEP](https://github.com/yqx7150/MFLRTC_inpainting/blob/master/Flowchart_WMFLRTC.png)
-
+The flowchart diagram of WMF-LRTC (L=2)
