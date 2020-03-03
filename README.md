@@ -20,3 +20,8 @@ Exploration of multi-filters induced low-rank tensor approximation for image res
 ![repeat-MDAEP](https://github.com/yqx7150/MFLRTC_inpainting/blob/master/Flowchart_WMFLRTC.png)  
   
 The flowchart diagram of WMF-LRTC (L=2)
+
+
+
+## Other Related Projects  
+  * Field-of-Experts Filters Guided Tensor Completion [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8291751/similar#similar)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/FoE_STDC)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
