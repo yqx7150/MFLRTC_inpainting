@@ -25,3 +25,5 @@ The flowchart diagram of WMF-LRTC (L=2)
 
 ## Other Related Projects  
   * Field-of-Experts Filters Guided Tensor Completion [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8291751/similar#similar)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/FoE_STDC)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
+
+  * Texture variation adaptive image denoising with nonlocal PCA [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8719026)   [<font size=5>**[Code]**</font>](https://github.com/Binjie-Qin/ACVA_v1.0) 
